@@ -29,7 +29,7 @@ $(document).ready(function(){
    $("p");
    $("img");
    $("key");
-   $("submit");
+   $("form");
 // call functions here
 
 });
