@@ -26,9 +26,9 @@ function submitIt(){
 }
 
 $(document).ready(function(){
-   $("p");
-   $("img");
-   $("key");
+   $("getIt");
+   $("frameIt");
+   $("pressIt");
    $("submitIt");
 // call functions here
 
